@@ -1,5 +1,7 @@
-# Web-skill
-
+# res.json example~~
+first
 npm install express --save 
+of course...
 
-first of course
+
+
